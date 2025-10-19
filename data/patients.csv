@@ -1,0 +1,11 @@
+PatientID,Age,Sex,BloodPressure,Cholesterol,Diagnosis
+1,45,M,120/80,200,Healthy
+2,62,F,140/90,240,Hypertension
+3,35,M,130/85,180,Healthy
+4,58,F,150/95,260,Diabetes
+5,41,M,125/82,220,Healthy
+6,67,F,160/100,280,Hypertension
+7,29,M,115/75,170,Healthy
+8,53,F,145/92,250,Diabetes
+9,48,M,135/88,230,Hypertension
+10,71,F,155/98,290,Diabetes
